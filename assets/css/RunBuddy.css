@@ -89,5 +89,22 @@ footer a {
 section {
 
     padding: 60px;
-    background-image: url("../images/hero-bg.jpgs");
+}
+
+.hero {
+
+    background-image: url("../images/hero-bg.jpeg");
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.hero-form {
+
+    color: #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    border: solid 3px #024e76;
+    
 }
