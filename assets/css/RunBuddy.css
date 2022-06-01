@@ -50,6 +50,7 @@ header nav{
 header nav ul li {
 
     display: inline;
+    
 }
 
 header nav ul li a {
@@ -93,6 +94,8 @@ section {
 
 
  /* hero section styles begin */
+
+ /* homepage hero */
 .hero {
 
     background-image: url("../images/hero-bg.jpeg");
@@ -101,6 +104,7 @@ section {
     background-size: cover;
     position: relative;
 }
+
 
 .hero-form {
 
